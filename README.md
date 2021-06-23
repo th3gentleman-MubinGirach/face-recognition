@@ -1,14 +1,18 @@
 # face-recognition program 
 This program would perform several activities based on the face recognized 
 The activities includes 
-Sending an Email 
-Sending Whatsapp Message 
-Launching Ec2 instances , creating Ebs volume & attaching it as well 
+<ul>
+  <li>Sending an Email </li> 
+  <li>Launching Ec2 instances </li>,
+  <li>creating Ebs volume & attaching it as well </li>
+  </ul>
 
 Before running the program make sure to install the following libraries 
--pywhatkit
--face-recognition
--numpy 
--opencv-python 
--getpass
+<ul>
+<li>pywhatkit</li>
+<li>face-recognition</li>
+<li>numpy </li>
+<li>opencv-python </li>
+<li>getpass</li>
+  </ul>
 
