@@ -3,7 +3,7 @@ This program would perform several activities based on the face recognized
 The activities includes 
 <ul>
   <li>Sending an Email </li> 
-  <li>Launching Ec2 instances </li>,
+  <li>Launching Ec2 instances </li>
   <li>creating Ebs volume & attaching it as well </li>
   </ul>
 
